@@ -3,4 +3,4 @@
 
 - Actually, we could just say HCI, however, we do want to emphasize the high-tech feel that AI brings with -- AI further defines the "C" and "I" in HCI.  
  
-
+- The "I" part can cover literature, history, and philosophy, so, the whole area can be generalized as digital (cognitive) humanites. 
